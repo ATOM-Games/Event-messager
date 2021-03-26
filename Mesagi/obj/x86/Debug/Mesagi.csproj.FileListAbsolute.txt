@@ -1,0 +1,29 @@
+C:\Users\Home\AppData\Local\Temporary Projects\Mesagi\bin\Debug\Mesagi.exe
+C:\Users\Home\AppData\Local\Temporary Projects\Mesagi\bin\Debug\Mesagi.pdb
+C:\Users\Home\AppData\Local\Temporary Projects\Mesagi\obj\x86\Debug\Mesagi.ManTwo.resources
+C:\Users\Home\AppData\Local\Temporary Projects\Mesagi\obj\x86\Debug\Mesagi.Form1.resources
+C:\Users\Home\AppData\Local\Temporary Projects\Mesagi\obj\x86\Debug\Mesagi.ManOne.resources
+C:\Users\Home\AppData\Local\Temporary Projects\Mesagi\obj\x86\Debug\Mesagi.Properties.Resources.resources
+C:\Users\Home\AppData\Local\Temporary Projects\Mesagi\obj\x86\Debug\Mesagi.csproj.GenerateResource.Cache
+C:\Users\Home\AppData\Local\Temporary Projects\Mesagi\obj\x86\Debug\Mesagi.exe
+C:\Users\Home\AppData\Local\Temporary Projects\Mesagi\obj\x86\Debug\Mesagi.pdb
+C:\Users\Home\Documents\Visual Studio 2010\Projects\Mesagi\Mesagi\obj\x86\Debug\Mesagi.exe
+C:\Users\Home\Documents\Visual Studio 2010\Projects\Mesagi\Mesagi\obj\x86\Debug\Mesagi.pdb
+C:\Users\Home\Documents\Visual Studio 2010\Projects\Mesagi\Mesagi\bin\Debug\Mesagi.exe
+C:\Users\Home\Documents\Visual Studio 2010\Projects\Mesagi\Mesagi\bin\Debug\Mesagi.pdb
+C:\Users\Home\Documents\Visual Studio 2010\Projects\Mesagi\Mesagi\obj\x86\Debug\Mesagi.ManTwo.resources
+C:\Users\Home\Documents\Visual Studio 2010\Projects\Mesagi\Mesagi\obj\x86\Debug\Mesagi.Form1.resources
+C:\Users\Home\Documents\Visual Studio 2010\Projects\Mesagi\Mesagi\obj\x86\Debug\Mesagi.ManOne.resources
+C:\Users\Home\Documents\Visual Studio 2010\Projects\Mesagi\Mesagi\obj\x86\Debug\Mesagi.Properties.Resources.resources
+C:\Users\Home\Documents\Visual Studio 2010\Projects\Mesagi\Mesagi\obj\x86\Debug\Mesagi.csproj.GenerateResource.Cache
+C:\Users\Home\documents\visual studio 2010\Projects\Mesagi\Mesagi\obj\x86\Debug\Mesagi.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2010\OLDProject\Mesagi\Mesagi\obj\x86\Debug\Mesagi.exe
+C:\Users\user\Documents\Visual Studio 2010\OLDProject\Mesagi\Mesagi\obj\x86\Debug\Mesagi.pdb
+C:\Users\user\Documents\Visual Studio 2010\OLDProject\Mesagi\Mesagi\bin\Debug\Mesagi.exe
+C:\Users\user\Documents\Visual Studio 2010\OLDProject\Mesagi\Mesagi\bin\Debug\Mesagi.pdb
+C:\Users\user\Documents\Visual Studio 2010\OLDProject\Mesagi\Mesagi\obj\x86\Debug\Mesagi.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2010\OLDProject\Mesagi\Mesagi\obj\x86\Debug\Mesagi.ManTwo.resources
+C:\Users\user\Documents\Visual Studio 2010\OLDProject\Mesagi\Mesagi\obj\x86\Debug\Mesagi.Form1.resources
+C:\Users\user\Documents\Visual Studio 2010\OLDProject\Mesagi\Mesagi\obj\x86\Debug\Mesagi.ManOne.resources
+C:\Users\user\Documents\Visual Studio 2010\OLDProject\Mesagi\Mesagi\obj\x86\Debug\Mesagi.Properties.Resources.resources
+C:\Users\user\Documents\Visual Studio 2010\OLDProject\Mesagi\Mesagi\obj\x86\Debug\Mesagi.csproj.GenerateResource.Cache
